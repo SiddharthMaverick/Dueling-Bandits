@@ -10,7 +10,8 @@ Prof. Manjesh Kumar Hanawal
 
 ## 👥 Authors
 - Satyankar Chandra (22B0967)  
-- Siddharth Verma (22B2153)  
+- Siddharth Verma (22B2153)
+- Anilesh Bansal (22B0928) 
 - Harsh Bundeliya (23N0452)  
 
 ---
